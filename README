@@ -8,7 +8,7 @@ WHAT IS YSCEP?
 
 YSCEP is a client-only implementation of the SCEP (Cisco System's Simple
 Certificate Enrollment Protocol). YSCEP is based on the opensource SSCEP
-with significant enhancement on operatibility and stability 
+with significant enhancement on operatibility, stability and flexibility. 
 
 WHAT SCEP?
 ==========
