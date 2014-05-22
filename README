@@ -1,8 +1,5 @@
 YSCEP  -  Simple SCEP client for Unix
 
-JZ: Yes, the code is VERY messy. At some point, I attempted to rewrite
-it but eventually decided only to focus on what's absolutely needed for Y!.
-
 WHAT IS YSCEP?
 ==============
 
