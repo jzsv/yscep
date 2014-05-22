@@ -375,5 +375,4 @@ void create_key_csr() {
 	}
 }
 
-void cleanup();
 
